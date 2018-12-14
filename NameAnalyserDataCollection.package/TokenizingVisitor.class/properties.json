@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "RBProgramNodeVisitor",
+	"category" : "NameAnalyserDataCollection",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"tokens",
+		"arguments"
+	],
+	"name" : "TokenizingVisitor",
+	"type" : "normal"
+}

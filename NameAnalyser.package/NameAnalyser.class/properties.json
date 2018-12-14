@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "",
+	"super" : "ComposablePresenter",
+	"category" : "NameAnalyser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"nameListLabel",
+		"nameList",
+		"selectedMethodLabel",
+		"nameEdit",
+		"sourceCode",
+		"proposedNamesListLabel",
+		"proposedNamesList",
+		"undoButton",
+		"applyButton",
+		"nameAnalyserModel"
+	],
+	"name" : "NameAnalyser",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+examples
+exampleMessageNoArgs
+	2 asInteger

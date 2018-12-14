@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NameAnalyser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"package",
+		"selectedMethodIndex",
+		"selectedProposedNameIndex",
+		"confidences",
+		"proposals",
+		"attentions"
+	],
+	"name" : "NameAnalyserModel",
+	"type" : "normal"
+}

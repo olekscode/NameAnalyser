@@ -1,0 +1,4 @@
+specs
+new 
+
+	self shouldNotImplement 

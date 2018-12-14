@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "NameAnalyserDataCollection",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"nameTokenizer"
+	],
+	"name" : "IdentifierNameTokenizerTest",
+	"type" : "normal"
+}
